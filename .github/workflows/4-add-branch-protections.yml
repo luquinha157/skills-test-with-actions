@@ -1,6 +1,5 @@
 name: Step 4, Add branch protections
 
-# This step triggers after we turn on or edit a branch protection rule.
 # This workflow updates from step 4 to step 5.
 
 # This will run every time we turn on or edit a branch protection rule.
